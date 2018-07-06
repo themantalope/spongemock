@@ -10,11 +10,8 @@ spongemock
 
 How to Install
 ==============
-``pip install spongemock``
 
-or (for python3 specifically)
-
-``pip3 install spongemock``
+``python setup.py install``
 
 If you are having troube with the ``-c`` copy option (especially on Linux), please refer to |pyperclipinst|_.
 
